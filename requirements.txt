@@ -1,0 +1,5 @@
+transformers
+torch
+torchvision
+torchaudio
+https://download.pytorch.org/whl/cpu
